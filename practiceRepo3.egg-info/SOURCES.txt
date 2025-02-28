@@ -1,0 +1,7 @@
+README.md
+setup.py
+practiceRepo3/__init__.py
+practiceRepo3.egg-info/PKG-INFO
+practiceRepo3.egg-info/SOURCES.txt
+practiceRepo3.egg-info/dependency_links.txt
+practiceRepo3.egg-info/top_level.txt
